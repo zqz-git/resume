@@ -237,13 +237,11 @@
    .vlog ul li {
        display: flex;
        justify-content: space-between;
-       /* border: 0.1vw solid #333; */
+        border: 0.1vw solid #333; 
        align-items: center;
-       background-color: rgb(206, 231, 206);
-        box-shadow: 1vw 1vw 0.8vw #888888;
-       border-radius: 2% 30%;
-      width:80%;
-       margin: 5vw 0;
+      padding: 2vw 0;
+       margin: 2vw 4vw;
+   }
    }
    
    .vlog ul li span {
@@ -302,4 +300,5 @@
        margin: 0 0.5vw;
 
    }
+
 
