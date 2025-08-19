@@ -3,7 +3,7 @@ window.onload = function() {
 
     function openCustomFullscreen(e) {
         e.parentNode.id = "fullscreenContainer"
-
+console.log(e)
     }
 
     function closeCustomFullscreen(e) {
@@ -16,4 +16,5 @@ window.onload = function() {
         }
 
     }
+
 }
