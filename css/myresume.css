@@ -1,0 +1,11 @@
+.resume_pic {
+    margin: 2vw auto;
+    width: 100vw;
+    height: 50vh;
+    background-color: pink;
+}
+
+.resume_pic img {
+    width: 100%;
+    height: auto;
+}
