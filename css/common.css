@@ -134,7 +134,7 @@
        width: 15vw;
        height: 20vw;
        /* background-color: rgb(7, 81, 20); */
-       box-shadow: 10px 13px 8px #888888;
+       box-shadow: 1vw 1vw 0.8vw #888888;
    }
    
    .results .title span {
@@ -156,7 +156,7 @@
        /* width: 7vw; */
        background-color: rgb(249, 251, 249);
        opacity: 0.8;
-       box-shadow: 10px 5px 5px #888888;
+        box-shadow: 1vw 1vw 0.8vw #888888;
        border-radius: 8%;
        border-color: #000;
        align-items: center;
@@ -175,7 +175,7 @@
        width: 40vw;
        height: 25vw;
        /* background-color: rgb(7, 81, 20); */
-       box-shadow: 10px 13px 8px #888888;
+       box-shadow: 1vw 1vw 0.8vw #888888;
        /* overflow: hidden; */
    }
    
@@ -200,7 +200,7 @@
        width: 20 vw;
        height: auto;
        background-color: rgb(253, 255, 253);
-       box-shadow: 10px 13px 8px #888888;
+       box-shadow: 1vw 1vw 0.8vw #888888;
        border-radius: 5%;
        border: 0.1vw solid #ccc;
        padding: 1vw;
@@ -240,9 +240,9 @@
        /* border: 0.1vw solid #333; */
        align-items: center;
        background-color: rgb(206, 231, 206);
-       box-shadow: 10px 13px 8px #888888;
+        box-shadow: 1vw 1vw 0.8vw #888888;
        border-radius: 2% 30%;
-       margin: 2vw 0;
+       margin: 5vw 0;
    }
    
    .vlog ul li span {
@@ -299,4 +299,5 @@
    
    .footer ul p {
        margin: 0 0.5vw;
+
    }
