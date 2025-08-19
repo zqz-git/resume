@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "672708",
+      "name": "经验",
+      "font_class": "jingyan",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "1119619",
+      "name": "swt-icon-教育",
+      "font_class": "swticonjiaoyu",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "3430460",
+      "name": "技能点",
+      "font_class": "jinengdian",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "3700479",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "7874518",
+      "name": "关于我们",
+      "font_class": "guanyuwomen",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}
