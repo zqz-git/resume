@@ -242,6 +242,7 @@
        background-color: rgb(206, 231, 206);
         box-shadow: 1vw 1vw 0.8vw #888888;
        border-radius: 2% 30%;
+      width:80%;
        margin: 5vw 0;
    }
    
@@ -301,3 +302,4 @@
        margin: 0 0.5vw;
 
    }
+
